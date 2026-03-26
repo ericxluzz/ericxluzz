@@ -30,5 +30,8 @@ Atualmente, otimizo meu workflow com **IA Generativa**, integrando design e cód
 
 **AI & Workflow (Engineering Productivity)**
 <p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35px" title="Visual Studio Code" alt="VS Code" />
-  <code>Cursor</code> | <code>Antigravity</code> | <code>Claude</code>
+</p>
