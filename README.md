@@ -35,3 +35,19 @@ Atualmente, otimizo meu workflow com **IA Generativa**, integrando design e cód
   <img src="https://img.shields.io/badge/Antigravity-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Antigravity" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35px" title="Visual Studio Code" alt="VS Code" />
 </p>
+
+---
+
+### 🌐 Conecte-se comigo
+
+<p align="left">
+  <a href="https://ericxluz.framer.website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/ericxluzzz-dsg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="http://wa.me/+5595984140592" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
