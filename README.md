@@ -41,7 +41,7 @@ Atualmente, otimizo meu workflow com **IA Generativa**, integrando design e cód
 ### 🌐 Conecte-se comigo
 
 <p align="left">
-  <a href="https://ericxluz.framer.website/" target="_blank">
+  <a href="https://ericdsg.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ericxluzzz-dsg/" target="_blank">
